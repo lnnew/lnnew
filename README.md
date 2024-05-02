@@ -1,7 +1,7 @@
 <h1  align="center"> Hi folks! 👋 Welcome to my GitHub.</h1>
 <hr>
 
-I am a senior at **Korea Advanced Institute of Science and Technology**, majoring in **Computer Science.** Take a look at my humble but hard-worked projects!
+I am a junior at **Korea Advanced Institute of Science and Technology**, majoring in **Computer Science.** Take a look at my humble but hard-worked projects!
 
 <hr align="center">
   I am passionate about enhancing the way people interact with technology. My prior experiences include various web solutions to improve people's everyday lives. During my further studies in CS, I have developed a passion for Human-Computer Interaction and Machine Learning. I'm keen on collaborating and learning together to contribute meaningfully to our field. Look forward to what we can do to our world! 🌐✨

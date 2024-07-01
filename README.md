@@ -3,9 +3,7 @@
 
 I am a junior at **Korea Advanced Institute of Science and Technology**, majoring in **Computer Science.** Take a look at my humble but hard-worked projects!
 
-<hr align="center">
-  I am passionate about enhancing the way people interact with technology. My prior experiences include various web solutions to improve people's everyday lives. During my further studies in CS, I have developed a passion for Human-Computer Interaction and Machine Learning. I'm keen on collaborating and learning together to contribute meaningfully to our field. 🌐
- <hr>
+
   <tr></tr><p align="center">
     
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Node.js Badge">

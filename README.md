@@ -1,7 +1,7 @@
 <h1  align="center"> Hi folks! 👋 Welcome to my GitHub.</h1>
 <hr>
 
-I am a junior at **Korea Advanced Institute of Science and Technology**, majoring in **Computer Science.** Take a look at my humble but hard-worked projects!
+I am a senior at **Korea Advanced Institute of Science and Technology**, majoring in **Computer Science.** Take a look at my humble but hard-worked projects!
 
 
   <tr></tr><p align="center">

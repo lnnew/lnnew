@@ -4,7 +4,8 @@
 I am a senior at **Korea Advanced Institute of Science and Technology**, majoring in **Computer Science.** 
 
 <h3>Research </h3>
-- <b>[2024.07~] Lab Intern at <a href="https://www.kixlab.org/">KIXLAB.</a></b> Working on "PromiseScope: Enhancing the Public’s Understanding and Analysis of Election Promises."
+- <b>[2025.01~] Lab Intern at <a href="https://www.uilab.kr/">UILAB</a></b> 
+- <b>[2024.07~12] Lab Intern at <a href="https://www.kixlab.org/">KIXLAB.</a></b> Working on "PromiseScope: Enhancing the Public’s Understanding and Analysis of Election Promises."
 
 
 <h3>Projects </h3>

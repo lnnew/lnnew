@@ -14,6 +14,5 @@ I am a senior at **Korea Advanced Institute of Science and Technology**, majorin
 
 
 <h3>Mini Projects </h3>
-<a href="Utilizing%20Sentiment%20Analysis%20with%20LLM%20to%20Examine%20South%20Korean%20Younger%20Generations%E2%80%99%20Perceptions%20of%20Marriage_%20A%20Focus%20on%20Web%20Community%20Data%20(Blind)v2%20(2).pdf" target="_blank">
-  PDF 파일 보기
-</a>
+- <b>Utilizing Sentiment Analysis with LLM to Examine South Korean Younger Generations’ Perceptions of Marriage: A Focus on Web Community Data</b>  href="Utilizing%20Sentiment%20Analysis%20with%20LLM%20to%20Examine%20South%20Korean%20Younger%20Generations%E2%80%99%20Perceptions%20of%20Marriage_%20A%20Focus%20on%20Web%20Community%20Data%20(Blind)v2%20(2).pdf" target="_blank">
+[view PDF]</a>

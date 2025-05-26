@@ -13,3 +13,6 @@ I am a senior at **Korea Advanced Institute of Science and Technology**, majorin
 
 
 
+<h3>Mini Projects </h3>
+- <b>[2024.09~2024.12] "Pharmacy" team, <a href="https://techforimpact.io/campus"> Kakao TechforImpact Campus. </a> </b> Working on"Tenten: LLM-Enabled Assistant for Pharmacy Consultations."
+[View the PDF](Utilizing Sentiment Analysis with LLM to Examine South Korean Younger Generations’ Perceptions of Marriage_ A Focus on Web Community Data (Blind)v2 (2).pdf)

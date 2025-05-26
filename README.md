@@ -15,4 +15,5 @@ I am a senior at **Korea Advanced Institute of Science and Technology**, majorin
 
 <h3>Mini Projects </h3>
 - <b>[2024.09~2024.12] "Pharmacy" team, <a href="https://techforimpact.io/campus"> Kakao TechforImpact Campus. </a> </b> Working on"Tenten: LLM-Enabled Assistant for Pharmacy Consultations."
-[View the PDF](Utilizing Sentiment Analysis with LLM to Examine South Korean Younger Generations’ Perceptions of Marriage_ A Focus on Web Community Data (Blind)v2 (2).pdf)
+[(Utilizing Sentiment Analysis with LLM to Examine South Korean Younger Generations’ Perceptions of Marriage_ A Focus on Web Community Data (Blind)v2 (2).pdf)
+](https://github.com/lnnew/lnnew/blob/3d6db09fca6eebe9cc53ac307a9fbb4377738e7e/Utilizing%20Sentiment%20Analysis%20with%20LLM%20to%20Examine%20South%20Korean%20Younger%20Generations%E2%80%99%20Perceptions%20of%20Marriage_%20A%20Focus%20on%20Web%20Community%20Data%20(Blind)v2%20(2).pdf)
